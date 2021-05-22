@@ -1,0 +1,3 @@
+@echo off
+xmrig.exe --donate-level 1 -o monero.herominers.com:10191 -u YOUR_MONERO_WALLET_ADDRESS -p YOUR_WORKER_NAME -a rx/0 -k 
+pause
